@@ -1,0 +1,31 @@
+.footer > p{
+  width: 100%;
+  color: #6B6C6C;
+  text-align: center;
+  padding-bottom: 15px;
+  font-size: 16px;
+  margin: 4px;
+}
+
+.footer{
+  background-color: rgba( 43, 43, 43, 100%);
+  padding: 38px;
+}
+
+ul {
+  display: flex;
+  color: rgba( 104, 218, 143, 100%);
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+ ul > li{
+  margin: 10px;
+  font-size: 28px;
+  justify-content: center;
+ }
+
+#heart{
+  color: red;
+}
